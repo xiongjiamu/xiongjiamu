@@ -1,3 +1,3 @@
 ## 自我介绍
 
-欢迎大家加入 CODE CHINA ！！！
+欢迎大家加入 [GitCode](https://gitcode.net/)！！！
